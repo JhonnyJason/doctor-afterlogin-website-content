@@ -15,6 +15,7 @@
         "headerSubtitle": "Bilder und Befunde Online",
         "deTagLink": '<a disabled>DE</a>',
         "enTagLink": '<a href="../en/">EN</a>',
-        "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde"
+        "contentTitleText": "Finden Sie hier Ihre Bilder & Befunde",
+        "forwardingLinkText": "Weiterleiten"
     }
 }
